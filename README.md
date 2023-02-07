@@ -7,6 +7,8 @@
 ## Tutorial: Julia programming for Exascale
 1. Introduction to Julia (Johannes Blaschke). [Code](https://github.com/JBlaschke/HPC-Julia) and [Presentation](https://jblaschke.github.io/HPC-Julia/presentation_index.html#/)
 2. Hands-on example of a MPI+X application (William Godoy, and Pedro Valero)
-3. Automatic Differentiation of a 2D Burgers code (Michel Schanen)
+3. Automatic Differentiation of a 2D Burgers code (Michel Schanen, slides: [DiffDistPDE.pdf](DiffDistPDE.pdf), code: [Burgers.jl](Burgers.jl))
 4. Combining an HPC application with AI (Youngsung Kim, and Hyun Kang)
 5. How to write device portable Code (Valentin Churavy)
+
+

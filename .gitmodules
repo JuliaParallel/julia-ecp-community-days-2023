@@ -1,3 +1,6 @@
 [submodule "presentations/HPC-Julia"]
 	path = presentations/HPC-Julia
 	url = https://github.com/JBlaschke/HPC-Julia
+[submodule "Burgers.jl"]
+	path = Burgers.jl
+	url = https://github.com/DJ4Earth/Burgers.jl
