@@ -4,6 +4,10 @@
 
 # Julia for HPC Tutorial and BoF at the 2023 ECP Community Days
 
+To engage with the Julia for HPC community, go to: https://julialang.org/community/ -- recommended meetings/calls:
+1. Julia HPC call (monthly)
+2. Triage meeting
+
 ## Tutorial: Julia programming for Exascale
 1. Introduction to Julia (Johannes Blaschke). [Code](https://github.com/JBlaschke/HPC-Julia) and [Presentation](https://jblaschke.github.io/HPC-Julia/presentation_index.html#/)
 2. Hands-on example of a MPI+X application (William Godoy, and Pedro Valero) [Code](https://github.com/ornladios/ADIOS2-Examples/tree/master/source/julia/GrayScott.jl)
