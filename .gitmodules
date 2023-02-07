@@ -1,0 +1,3 @@
+[submodule "presentations/HPC-Julia"]
+	path = presentations/HPC-Julia
+	url = https://github.com/JBlaschke/HPC-Julia
