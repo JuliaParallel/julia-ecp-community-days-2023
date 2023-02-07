@@ -4,7 +4,7 @@
 
 # Julia for HPC Tutorial and BoF at the 2023 ECP Community Days
 
-## Outline:
+## Tutorial: Julia programming for Exascale
 1. Introduction to Julia (Johannes Blaschke). [Code](https://github.com/JBlaschke/HPC-Julia) and [Presentation](https://jblaschke.github.io/HPC-Julia/presentation_index.html#/)
 2. Hands-on example of a MPI+X application (William Godoy, and Pedro Valero)
 3. Automatic Differentiation of a 2D Burgers code (Michel Schanen)
