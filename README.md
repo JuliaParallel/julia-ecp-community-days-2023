@@ -31,7 +31,7 @@ Please fill out the [Julia for HPC survey](https://forms.gle/Cbo5778tZySuYiE59)
 7. Porting from X to Julia (X=Fortran …)
 8. Performance / compiler optimization (eg. `--check-bounds=no`)
 9. Julia + MPI experiences (e.g. installing, community support, diagnosing problems) https://juliaparallel.org/tutorials/preferences/ 
-10 Julia as a workflow language (FluxRM.jl?)
+10. Julia as a workflow language (FluxRM.jl?)
 
 
 ## Tutorial: Julia programming for Exascale
