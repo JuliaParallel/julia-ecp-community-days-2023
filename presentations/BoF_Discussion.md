@@ -5,6 +5,7 @@
 * Is Distributed.jl is "right" path for HPC application? 
 * How prominent are interactive use cases?
 * How to run on air-gaped systems?
+* How to use multi-threading? And is there a similar approach to openMP?
 
 
 ## Suggested Topics/Questions
