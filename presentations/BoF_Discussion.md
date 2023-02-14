@@ -4,6 +4,7 @@
 
 * Is Distributed.jl is "right" path for HPC application? 
 * How prominent are interactive use cases?
+* How to run on air-gaped systems?
 
 
 ## Suggested Topics/Questions
