@@ -3,6 +3,7 @@
 ## Questioned Asekd
 
 * Is Distributed.jl is "right" path for HPC application? 
+* How prominent are interactive use cases?
 
 
 ## Suggested Topics/Questions
