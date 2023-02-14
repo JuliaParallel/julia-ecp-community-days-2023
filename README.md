@@ -5,7 +5,7 @@
 # Julia for HPC Tutorial and BoF at the 2023 ECP Community Days
 
 To engage with the Julia for HPC community, go to: https://julialang.org/community/ -- recommended meetings/calls:
-1. Julia HPC call (monthly)
+1. Julia HPC working group: Monthly call, Discord, [HPC Pages](https://juliaparallel.org/)
 2. Triage meeting
 
 ## BoF: Developing end-to-end workflows for Exascale Systems in Julia
@@ -27,7 +27,7 @@ Please fill out the [Julia for HPC survey](https://forms.gle/Cbo5778tZySuYiE59)
 5. How are ECP projects going (eg. portability, productivity, regrets etc?)
 6. Julia on HPC: Packaging applications into sysimage / PkgCompiler
 7. Porting from X to Julia (X=Fortran …)
-8. Performance / compiler optimization (eg. --check-bounds=no)
+8. Performance / compiler optimization (eg. `--check-bounds=no`)
 9. Julia + MPI experiences (e.g. installing, community support, diagnosing problems) https://juliaparallel.org/tutorials/preferences/ 
 10 Julia as a workflow language (FluxRM.jl?)
 
