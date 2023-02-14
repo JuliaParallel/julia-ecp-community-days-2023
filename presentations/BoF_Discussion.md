@@ -1,5 +1,10 @@
 # BoF Discussion
 
+## Questioned Asekd
+
+* Is Distributed.jl is "right" path for HPC application? 
+
+
 ## Suggested Topics/Questions
 
 1. What versions should we ask for from the sysadmin
