@@ -7,6 +7,7 @@
 * How to run on air-gaped systems?
 * How to use multi-threading? And is there a similar approach to openMP? Combination with Distributed.jl and MPI.jl
 * MPI application with Distributed as side-task.
+* Launching workers from Pluto.jl
 
 ## Suggested Topics/Questions
 
