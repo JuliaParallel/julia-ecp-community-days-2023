@@ -16,9 +16,9 @@ Please fill out the [Julia for HPC survey](https://forms.gle/Cbo5778tZySuYiE59)
 
 ### Lightning talks
 
-1. Valentin: Update from the Ecosystem (e.g Preferences, MPI CUDA, TTFX, Weak Dependencies etc)
-2. William / Pedro: Curated content from the community – eg [Our paper](https://arxiv.org/abs/2211.02740), JuliaCon HPC workshop, SC BoF
-3. Michel / William: State of Julia on Sunspot and Crusher
+1. Valentin Churavy: Update from the Ecosystem (e.g Preferences, MPI CUDA, TTFX, Weak Dependencies etc)
+2. William Godoy: Curated content from the community – eg [Our paper](https://arxiv.org/abs/2211.02740), JuliaCon HPC workshop, SC BoF
+3. Michel Schanen: State of Julia on Sunspot and Crusher
 
 ### Discussion
 
