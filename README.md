@@ -4,6 +4,8 @@
 
 # Julia for HPC Tutorial and BoF at the 2023 ECP Community Days
 
+**Note:** Recordings will be available soon
+
 To engage with the Julia for HPC community, go to: https://julialang.org/community/ -- recommended meetings/calls:
 1. Julia HPC working group: Monthly call, Discord, [HPC Pages](https://juliaparallel.org/)
 2. Triage meeting
